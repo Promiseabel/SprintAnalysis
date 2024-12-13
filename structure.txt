@@ -1,0 +1,6 @@
+├── README.md          # The Read Me File
+├── structure.txt      # This file that explains the structure of the environment
+├── requirements.txt   # List of required libraries to install
+├── notebooks/         # Jupyter notebooks
+├── src/               # Scripts
+└── data/              # Folder for storing datasets
