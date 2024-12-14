@@ -1,0 +1,21 @@
+# Ignore files under each side folder in formatted and raw directories
+data/formatted/frontside/*
+data/formatted/backside/*
+data/formatted/leftside/*
+data/formatted/rightside/*
+
+data/raw/frontside/*
+data/raw/backside/*
+data/raw/leftside/*
+data/raw/rightside/*
+
+# Do not ignore the directories themselves
+!data/formatted/frontside/
+!data/formatted/backside/
+!data/formatted/leftside/
+!data/formatted/rightside/
+
+!data/raw/frontside/
+!data/raw/backside/
+!data/raw/leftside/
+!data/raw/rightside/

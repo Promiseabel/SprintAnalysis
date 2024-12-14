@@ -3,4 +3,14 @@
 ├── requirements.txt   # List of required libraries to install
 ├── notebooks/         # Jupyter notebooks
 ├── src/               # Scripts
-└── data/              # Folder for storing datasets
+└── data/              # Folder for storing datasets,
+    ├── formatted/     # Formatted Videos at different angles
+    │   ├── frontside/
+    │   ├── backside/
+    │   ├── leftside/
+    │   └── rightside/
+    └── raw/           # Each of the videos recorded at different angles
+        ├── frontside/
+        ├── backside/
+        ├── leftside/
+        └── rightside/
